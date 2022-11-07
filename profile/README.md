@@ -1,0 +1,3 @@
+# SMARTER Project
+
+The decreasing cost and power consumption of intelligent, interconnected, and interactive devices at the edge of the internet are creating massive opportunities to instrument our cities, factories, farms, and environment to improve efficiency, safety, and productivity. Developing, debugging, deploying, and securing software for the estimated trillion connected devices presents substantial challenges. As part of the SMARTER (Secure Municipal, Agricultural, Rural, and Telco Edge Research) project, Arm has been exploring the use of cloud-native technology and methodologies in edge environments to evaluate their effectiveness at addressing these problems at scale.
