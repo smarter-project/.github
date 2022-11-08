@@ -1,0 +1,7 @@
+{
+  "name": "Smarter Organization Helm Workflow",
+  "description": "Smarter Organization Helm starter workflow.",
+  "filePatterns": [
+      "charts"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Smarter Organization Docker Buildx Workflow",
+  "description": "Smarter Organization Docker buildx starter workflow.",
+  "filePatterns": [
+      "^Dockerfile"
+  ]
+}
